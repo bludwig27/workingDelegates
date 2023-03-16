@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\bin\Debug\net6.0\workingDelegates.exe
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\bin\Debug\net6.0\workingDelegates.deps.json
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\bin\Debug\net6.0\workingDelegates.runtimeconfig.json
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\bin\Debug\net6.0\workingDelegates.dll
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\bin\Debug\net6.0\workingDelegates.pdb
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.AssemblyInfo.cs
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.dll
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\refint\workingDelegates.dll
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.pdb
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\workingDelegates.genruntimeconfig.cache
+C:\Users\bludw\source\repos\workingDelegates\workingDelegates\obj\Debug\net6.0\ref\workingDelegates.dll
